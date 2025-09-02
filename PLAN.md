@@ -4,6 +4,14 @@
 
 ## Month 1: Foundations & Data Structures
 
+#### Feature Deep Dive: 
+- **Understand:**  
+- **Experiment:**  
+- **Implement From Scratch:**  
+- **Extend / Challenge:**  
+- **Integrate into Projects:**  
+- **Key Takeaways:**  
+
 ### Week 1: Python Data Model
 - [ ] Read Fluent Python Ch. 1–3 (Data Model & Special Methods)
 - [ ] Read source code:
